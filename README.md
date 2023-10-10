@@ -69,7 +69,7 @@ They often provide additional features such as mixins, variables and nesting.
 
 To use SASS which is a CSS Preprocessor, follow these steps:
 
-- Download the Extension Name: Live Sass Compiler
+- Download the Extension in you VScode: Live Sass Compiler
 - Create a folder called 'css' in the root of your project
 - Create a file called _index.scss_
 - Click the **Watch SaSS** icon at the bottom of your Visual Studio Code information bar
